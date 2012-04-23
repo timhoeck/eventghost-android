@@ -1,0 +1,2 @@
+04.32.12	Initial API for Android to Eventghost
+TBD			Add PreferenceActivity
