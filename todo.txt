@@ -1,2 +1,4 @@
-04.32.12	Initial API for Android to Eventghost
+04.23.12	Initial API for Android to Eventghost
+TBD			Add code to handle server connection
 TBD			Add PreferenceActivity for Server selection, Listening
+TBD			Clean up
